@@ -145,7 +145,7 @@ Zip the data folder and keep it ready we will be using this folder later.
 
 Train data:
 
-![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.011.png)     
+![](readme/Capture.png)     
 
 
 
