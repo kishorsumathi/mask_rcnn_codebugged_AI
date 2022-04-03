@@ -13,15 +13,15 @@ In June 2017, Google opened the TensorFlow Object Detection API. This project us
 
 <https://github.com/tensorflow/models/tree/v1.13.0>
 
-![G:\Documents\ShareX\Screenshots\2020-02\chrome\_v5DVLd1jhR.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.002.png)
+![G:\Documents\ShareX\Screenshots\2020-02\chrome\_v5DVLd1jhR.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.002.png)
 
-![G:\Documents\ShareX\Screenshots\2020-02\chrome\_O4HYeRleVA.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.003.png)
+![G:\Documents\ShareX\Screenshots\2020-02\chrome\_O4HYeRleVA.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.003.png)
 
 MASK RCNN Model link :-
 
 <http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_v2_coco_2018_01_28.tar.gz>
 
-![G:\Documents\ShareX\Screenshots\2020-02\chrome\_WytTnwVRiw.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.004.png)
+![G:\Documents\ShareX\Screenshots\2020-02\chrome\_WytTnwVRiw.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.004.png)
 
 **Data Annotation:**
 
@@ -49,29 +49,29 @@ labelme
 
 Then the interface of labelme will popup.
 
-![G:\Documents\ShareX\Screenshots\2020-02\cmd\_OD9skt17oM.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.005.png)
+![G:\Documents\ShareX\Screenshots\2020-02\cmd\_OD9skt17oM.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.005.png)
 
-![G:\Documents\ShareX\Screenshots\2020-02\cmd\_OD9skt17oM.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.005.png)
+![G:\Documents\ShareX\Screenshots\2020-02\cmd\_OD9skt17oM.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.005.png)
 
 Click on **Open Dir** and select the folder where your test images or train images are. Then start labelling all images in the dataset.
 
-![G:\Documents\ShareX\Screenshots\2020-02\python\_dDvJvhUwU0.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.006.png)
+![G:\Documents\ShareX\Screenshots\2020-02\python\_dDvJvhUwU0.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.006.png)
 
 The selected image is loaded in the Labelme Interface.
 
-![G:\Documents\ShareX\Screenshots\2020-02\python\_dDvJvhUwU0.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.006.png)
+![G:\Documents\ShareX\Screenshots\2020-02\python\_dDvJvhUwU0.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.006.png)
 
 Click on **Start Drawing Polygons.**
 
-![G:\Documents\ShareX\Screenshots\2020-02\XCCuvUR4Ri.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.007.png)
+![G:\Documents\ShareX\Screenshots\2020-02\XCCuvUR4Ri.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.007.png)
 
 Create the Polygon Box and write the Label name corresponding to the image
 
-.![G:\Documents\ShareX\Screenshots\2020-02\python\_5qJ558Lt8V.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.006.png)
+.![G:\Documents\ShareX\Screenshots\2020-02\python\_5qJ558Lt8V.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.006.png)
 
 Click on the Save button and a corresponding JSON file will be saved in the directory with the image.
 
-![G:\Documents\ShareX\Screenshots\2020-02\python\_xtjrAA50lj.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.008.png)
+![G:\Documents\ShareX\Screenshots\2020-02\python\_xtjrAA50lj.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.008.png)
 
 **NEXT**
 
@@ -85,7 +85,7 @@ map.pbtxt,read\_pbtxt,read\_pbtxt\_file,setup.py,string\_int\_label\_map\_pb2 an
 
 create\_tf\_records. 
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.009.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.009.png)
 
 **create\_tf\_records:** 
 
@@ -108,7 +108,7 @@ Replace the names of the classes with your class names.
 
 This is a sample one.
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.010.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.010.png)
 
 Zip the data folder and keep it ready we will be using this folder later.
 
@@ -145,13 +145,13 @@ Zip the data folder and keep it ready we will be using this folder later.
 
 Train data:
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.011.png)     
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.011.png)     
 
 
 
 Test data:
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.012.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.012.png)
 
 
 - **Step 7: move the custom\_train\_dog.record ,custom\_val\_dog.record and setup.py to research folder. And install setup.py.**
@@ -188,12 +188,12 @@ Test data:
 
 
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.013.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.013.png)
 
-![G:\Documents\ShareX\Screenshots\2020-02\sublime\_text\_mjOkhUD5gV.png](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.014.png)
+![G:\Documents\ShareX\Screenshots\2020-02\sublime\_text\_mjOkhUD5gV.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.014.png)
 
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.015.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.015.png)
 
 **                All the red box cells contain the path that I am using. It may change                     based on your preferences.
 
@@ -217,7 +217,7 @@ Test data:
 
 
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.016.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.016.png)
 
 
 Now we can use this frozen\_inference\_graph.pb model to predict.
@@ -237,7 +237,7 @@ Now we can use this frozen\_inference\_graph.pb model to predict.
 
 - PATH\_TO\_LABLES
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.017.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.017.png)
 
 - **Step 4: Load a (frozen) Tensorflow model into memory.**
 
@@ -255,7 +255,7 @@ Test data must be named as image1,image2,image3…..etc. This is done to  access
 
 
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.018.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.018.png)
 
 Only you have to change the for loop if 5 images then range(1,6) if 20 image range(1,21) etc. And change the PATH\_TO\_IMAGES\_DIR relative to your path were the test images is available. 
 
@@ -263,12 +263,12 @@ Only you have to change the for loop if 5 images then range(1,6) if 20 image ran
 
 **RESULT:**
 
-![](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.019.png)
+![](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.019.png)
 
 **CONCLUSION:**
 
 `           `I have trained the maskrcnn model with dog dataset for only  600 steps and I have got a pretty good result. If you increase the steps and dataset size your accuracy will increase.** Data argumentation and data annotation must be done very carefully.**
 
-`                     `![Why Saying "Thank You" Matters - Crown Connect](Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.020.jpeg)
+`                     `![Why Saying "Thank You" Matters - Crown Connect](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.020.jpeg)
              
 
