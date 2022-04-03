@@ -145,7 +145,7 @@ Zip the data folder and keep it ready we will be using this folder later.
 
 Train data:
 
-![](readme/Capture.png)     
+![](readme/Capture.PNG)     
 
 
 
