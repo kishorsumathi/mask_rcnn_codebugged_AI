@@ -9,7 +9,7 @@ In June 2017, Google opened the TensorFlow Object Detection API. This project us
 
 <https://github.com/tensorflow/models/tree/master/research/object_detection>
 
-![G:\Documents\ShareX\Screenshots\2020-02\chrome\_qG2vU9yEJy.png](https://github.com/kishorsumathi/mask_rcnn_codebugged_AI/readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.001.png)
+![G:\Documents\ShareX\Screenshots\2020-02\chrome\_qG2vU9yEJy.png](readme/Aspose.Words.e3f3f8ec-01f8-494e-836f-71a4e3aaf1d4.001.png)
 
 <https://github.com/tensorflow/models/tree/v1.13.0>
 
