@@ -212,7 +212,7 @@ Test data:
 
 - Command for conversion: !python export\_inference\_graph.py --input\_type image\_tensor --pipeline\_config\_path training/mask\_rcnn\_inception\_v2\_coco.config --trained\_checkpoint\_prefix training/model.ckpt-200 --output\_directory frozen\_inference\_graph
 
-- Training has completed sucessfully and model has been saved in research/frozen\_inference\_graph/ utilize that model for infrencing.
+- Training has completed sucCessfully and model has been saved in research/frozen\_inference\_graph/ utilize that model for infErencing.
 
 
 
